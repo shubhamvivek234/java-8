@@ -145,8 +145,8 @@ public class Streams {
  //-------------------------------------------------------------------------------------------------------		                       
 			                       
 			        IntSummaryStatistics summary  =IntStream.of (7,5,4,8,105 ,34,56)
-			        		                       .summaryStatistics();
-			        System.out.println(summary);
+			        		              .summaryStatistics();
+			                                       System.out.println(summary);
 			                  
 			                  
 			
